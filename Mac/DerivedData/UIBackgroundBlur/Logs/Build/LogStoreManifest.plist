@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>464C7347-D3C0-4A38-821D-69EFECC0898E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>464C7347-D3C0-4A38-821D-69EFECC0898E.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UIBackgroundBlur project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UIBackgroundBlur</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UIBackgroundBlur</string>
+			<key>timeStartedRecording</key>
+			<real>579637942.15442705</real>
+			<key>timeStoppedRecording</key>
+			<real>579637956.17175698</real>
+			<key>title</key>
+			<string>Build UIBackgroundBlur</string>
+			<key>uniqueIdentifier</key>
+			<string>464C7347-D3C0-4A38-821D-69EFECC0898E</string>
+		</dict>
+		<key>FBDAD720-CCA8-4655-8C1D-46A5E3F98F5A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FBDAD720-CCA8-4655-8C1D-46A5E3F98F5A.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UIBackgroundBlur project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UIBackgroundBlur</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UIBackgroundBlur</string>
+			<key>timeStartedRecording</key>
+			<real>579638019.60510302</real>
+			<key>timeStoppedRecording</key>
+			<real>579638020.32910097</real>
+			<key>title</key>
+			<string>Build UIBackgroundBlur</string>
+			<key>uniqueIdentifier</key>
+			<string>FBDAD720-CCA8-4655-8C1D-46A5E3F98F5A</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
