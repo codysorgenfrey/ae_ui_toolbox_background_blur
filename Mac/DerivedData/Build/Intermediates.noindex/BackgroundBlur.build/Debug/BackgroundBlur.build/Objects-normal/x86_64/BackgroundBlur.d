@@ -1,7 +1,7 @@
 dependencies: \
-  /Users/codysorgenfrey1/Developer/AfterEffectsSDK/Examples/Template/BackgroundBlur/BackgroundBlur.cpp \
+  /Users/codysorgenfrey1/Developer/AfterEffectsSDK/Examples/Template/uitoolboxbackgroundblur/BackgroundBlur.cpp \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h \
-  /Users/codysorgenfrey1/Developer/AfterEffectsSDK/Examples/Template/BackgroundBlur/BackgroundBlur.h \
+  /Users/codysorgenfrey1/Developer/AfterEffectsSDK/Examples/Template/uitoolboxbackgroundblur/BackgroundBlur.h \
   ../../../Headers/AEConfig.h ../../../Util/entry.h \
   /Users/codysorgenfrey1/Developer/AfterEffectsSDK/Examples/Headers/AE_PluginData.h \
   ../../../Headers/A.h ../../../Headers/adobesdk/config/PreConfig.h \
@@ -33,4 +33,4 @@ dependencies: \
   ../../../Headers/SP/SPProps.h ../../../Headers/SP/SPMData.h \
   ../../../Headers/SP/SPPiPL.h ../../../Headers/SP/SPAdapts.h \
   ../../../Headers/SP/SPCaches.h ../../../Headers/SP/SPStrngs.h \
-  /Users/codysorgenfrey1/Developer/AfterEffectsSDK/Examples/Template/BackgroundBlur/BackgroundBlur_Strings.h
+  /Users/codysorgenfrey1/Developer/AfterEffectsSDK/Examples/Template/uitoolboxbackgroundblur/BackgroundBlur_Strings.h

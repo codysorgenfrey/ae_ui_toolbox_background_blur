@@ -13,7 +13,7 @@ resource 'PiPL' (16000) {
 		},
 		/* [2] */
 		Name {
-			"Background Blur"
+			"UI Background Blur"
 		},
 		/* [3] */
 		Category {
@@ -56,7 +56,7 @@ resource 'PiPL' (16000) {
 		},
 		/* [11] */
 		AE_Effect_Match_Name {
-			"ADBE BackgroundBlur"
+			"UIToolbox BackgroundBlur"
 		},
 		/* [12] */
 		AE_Reserved_Info {

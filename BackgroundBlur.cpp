@@ -152,8 +152,8 @@ PF_Err PluginDataEntryFunction(
 	result = PF_REGISTER_EFFECT(
 		inPtr,
 		inPluginDataCallBackPtr,
-		"Background Blur", // Name
-		"ADBE BackgroundBlur", // Match Name
+		"UI Background Blur", // Name
+		"UIToolbox BackgroundBlur", // Match Name
 		"UI Toolbox", // Category
 		AE_RESERVED_INFO); // Reserved Info
 

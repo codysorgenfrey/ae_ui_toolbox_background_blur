@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>7491440C-F956-4A28-9DCE-A40801546CA5</key>
+		<key>2A02C31E-A823-4E6D-AB5B-EB9FA85022AC</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>7491440C-F956-4A28-9DCE-A40801546CA5.xcactivitylog</string>
+			<string>2A02C31E-A823-4E6D-AB5B-EB9FA85022AC.xcactivitylog</string>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -30,13 +30,77 @@
 			<key>signature</key>
 			<string>Build BackgroundBlur</string>
 			<key>timeStartedRecording</key>
-			<real>579596841.22175705</real>
+			<real>579598264.71878898</real>
 			<key>timeStoppedRecording</key>
-			<real>579596846.30509496</real>
+			<real>579598267.50898397</real>
 			<key>title</key>
 			<string>Build BackgroundBlur</string>
 			<key>uniqueIdentifier</key>
-			<string>7491440C-F956-4A28-9DCE-A40801546CA5</string>
+			<string>2A02C31E-A823-4E6D-AB5B-EB9FA85022AC</string>
+		</dict>
+		<key>90399C8C-173D-4C1F-BB5C-E02A4CB53A8D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>90399C8C-173D-4C1F-BB5C-E02A4CB53A8D.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlur project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlur</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BackgroundBlur</string>
+			<key>timeStartedRecording</key>
+			<real>579630627.81566703</real>
+			<key>timeStoppedRecording</key>
+			<real>579630630.60402203</real>
+			<key>title</key>
+			<string>Build BackgroundBlur</string>
+			<key>uniqueIdentifier</key>
+			<string>90399C8C-173D-4C1F-BB5C-E02A4CB53A8D</string>
+		</dict>
+		<key>D220644B-1DAA-4B42-81A2-894D3C7ECBB8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D220644B-1DAA-4B42-81A2-894D3C7ECBB8.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlur project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlur</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BackgroundBlur</string>
+			<key>timeStartedRecording</key>
+			<real>579630865.97045004</real>
+			<key>timeStoppedRecording</key>
+			<real>579630869.124946</real>
+			<key>title</key>
+			<string>Build BackgroundBlur</string>
+			<key>uniqueIdentifier</key>
+			<string>D220644B-1DAA-4B42-81A2-894D3C7ECBB8</string>
 		</dict>
 	</dict>
 </dict>

@@ -9,7 +9,7 @@ typedef struct {
 
 TableString		g_strs[StrID_NUMTYPES] = {
 	StrID_NONE,						"",
-	StrID_Name,						"Background Blur",
+	StrID_Name,						"UI Background Blur",
 	StrID_Description,				"Creates a \"frosted glass\" effect.\nLayer must have \"Adjustment Layer\" switch turned on.",
 	StrID_Radius_Param_Name,		"Radius"
 };
